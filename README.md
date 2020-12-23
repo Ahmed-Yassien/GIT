@@ -1,6 +1,7 @@
 # GIT
 
 git --version   
+ls-la   
 git remote -v   
 cd   
 pwd   
