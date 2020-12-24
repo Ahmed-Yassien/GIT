@@ -1,4 +1,5 @@
 cd  
+$ git log
 git clone  
 git remote -v  
 git remote set-url origin https://github.com/Ahmed-Yassien/Pre-processing.git   
